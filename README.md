@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/httpsmd-robiul-islam-robi-robicnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsmd-robiul-islam-robi-robicnits" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-robiul-islam-robi-robicnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsmd-robiul-islam-robi-robicnits" height="30" width="40" /></a>
 <a href="https://fb.com/robi.cnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robi.cnits" height="30" width="40" /></a>
 <a href="https://instagram.com/robi.cnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robi.cnits" height="30" width="40" /></a>
 <a href="https://www.behance.net/robicnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="robicnits" height="30" width="40" /></a>
