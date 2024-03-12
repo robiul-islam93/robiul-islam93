@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiul-islam93" alt="robiul-islam93" /></a> </p>
 
-- 🔭 I’m currently working on [Pothik Mizan](https://www.pothikmizan.com/)
+- 🔭 I’m currently working on [Softexsolution](https://www.softexsolution.com/)
 
 - 🌱 I’m currently learning **Laravel**
 
