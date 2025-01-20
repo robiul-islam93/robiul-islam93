@@ -1,6 +1,6 @@
 ![logo](https://github.com/robiul-islam93/robiul-islam93/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
-<h3 align="center">Web Developer at CodeNext IT Solution</h3>
+<h3 align="center">Software Developer | Specializing in Web Applications and API Integration</h3>
 <img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiul-islam93&label=Profile%20views&color=0e75b6&style=flat" alt="robiul-islam93" /> </p>
 
