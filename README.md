@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-  <img src="https://github.com/robiul-islam93/robiul-islam93/blob/main/image.png" alt="Profile Banner" />
+  <img src="https://github.com/robiul-islam93/robiul-islam93/blob/main/github-banner.jpg" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
