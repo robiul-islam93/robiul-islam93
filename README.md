@@ -73,14 +73,17 @@ I prefer **understanding systems deeply and building from scratch**, instead of 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,bootstrap,git,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,vue,html,css,bootstrap,wordpress,git,postman,figma&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMS-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/API-RESTful-0A66C2?style=for-the-badge" />
 </p>
+
 
 ---
 
