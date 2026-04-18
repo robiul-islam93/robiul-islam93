@@ -32,7 +32,7 @@ I prefer **understanding systems deeply and building from scratch**, instead of 
 
 ## 🚀 Current Focus
 
-- 🔭 Working on **DevZahra** – a professional production-ready web platform  
+- 🔭 Working on **BytewyfTech** – a professional production-ready web platform  
 - 🌱 Learning **Advanced Laravel, API Security & System Design**  
 - 👯 Open to collaboration on **Laravel / PHP products**  
 - 🤝 Building a **Bricks Management Software (ERP-style system)**  
@@ -57,7 +57,7 @@ I prefer **understanding systems deeply and building from scratch**, instead of 
   👉 https://github.com/robiul-islam93?tab=repositories
 
 - 📄 **Professional Work & Experience**  
-  👉 https://developerzahrajabeen.com/
+  👉 https://bytewyftech.com/
 
 ---
 
